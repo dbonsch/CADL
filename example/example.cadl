@@ -1,0 +1,42 @@
+{
+  "name":"Daidalos.Projects.clean", // string
+  "short_desc":"Clean the cache directory for a specific project.", // string
+  "api_version":"0.3",  // string
+  "deprecated":"false", // true | false
+  "replace":[ // array
+  ],
+  "structure":{ // array
+    "cli" :{
+      "addr": "cli.php Daidalos.Projects.clean",
+      "params":[
+        "pfile":[ "type":"string:file", "required":"true" ]
+      ],
+      "login":"required",
+      "load":"low",
+      "root":"optional"
+    }, 
+    "http" :{
+      "addr": "ajax.php?c=Daidalos.Projects.clean",
+      "ssl": "required",
+      "login": "required",
+      "method" : "delete",
+      "success_status" : "202",
+      "params":[
+        "pfile":[ "type":"string:file", "required":"true" ]
+      ],
+      "xhr": "only",
+      "restrictions":[],
+      "payment":"",
+      "licence":"",
+      "cache":"",
+      "i18n":[],
+      "mimetype":[],
+      "active_content":"",
+      "compression":"",
+      "robots":"disallow",
+      "web_save":"disallow",
+      "load":"low",
+      "risks":[]
+    }
+  }
+}
