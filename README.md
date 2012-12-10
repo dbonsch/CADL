@@ -6,7 +6,7 @@ __*One language to rule them all*__
 
 ## Yet another description language?
 
-Hey there are multiple languages in the wild to descripe apis or webservices.
+Hey there are multiple languages in the wild to describe apis or webservices.
 
 * http://www.w3.org/TR/wsdl20/
 * http://www.w3.org/Submission/wadl/
@@ -19,21 +19,21 @@ And allways remeber: http://xkcd.com/927/
 
 ## So why CADL?
 
-Well we
+Well we:
 
 * create MVC architectures
 * design our applications to be accessable via multiple protocols or even by CLI
-* have clear validation Rules what kind of information will be accepted
-* retourn various types of informations various types of contents 
-* have to deal with privacy and data protection issues
-* need to deal with licence and copy right foo
+* have clear validation rules what kind of information will be accepted
+* return various types of informations and various types of contents 
+* have to deal with privacy and data protection issues 
+* have to deal diffrent protection levels for APIs and informations
+* need to deal with licence and copyright foo
 * have to deal with backwards compatibility / diffrent api versions
 * have a multi langual world
 * have artificial borders and laws that prevent us from dealing with some regions
-* sometimes need usage constraints
+* sometimes need usage constraints like intranet only
 * maybe want money if somebody use our services
 * need so much more information than just a bunch of rudimental tech information
-* need to document so much more
 * sometimes just need information how to deal with that fkn (vendor) system
 * do stuff that has so much more impact than just beeing some piece of technology
 
