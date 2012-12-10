@@ -13,6 +13,7 @@ Hey there are multiple languages in the wild to descripe apis or webservices.
 * and so on..
 
 And allways remeber: http://xkcd.com/927/ 
+![how standards proliferate](http://imgs.xkcd.com/comics/standards.png)
 
 ## So why CADL?
 
