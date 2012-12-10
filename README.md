@@ -1,7 +1,8 @@
 # CADL
 
 Common API Description Language
-*One language to rule them all*
+
+__*One language to rule them all*__
 
 ## Yet another description language?
 
