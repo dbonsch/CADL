@@ -13,7 +13,7 @@ Hey there are multiple languages in the wild to describe apis or webservices.
 * http://www.w3.org/2005/Incubator/usdl/
 * and so on..
 
-And allways remeber: http://xkcd.com/927/ 
+And always remeber: http://xkcd.com/927/ 
 
 ![how standards proliferate](http://imgs.xkcd.com/comics/standards.png)
 
